@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\welcome\Desktop\C++ Development\TCP_Server_2020\TCP_Server_2020\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TCP_Server_2020.vcxproj -> C:\Users\welcome\Desktop\C++ Development\TCP_Server_2020\Debug\TCP_Server_2020.exe

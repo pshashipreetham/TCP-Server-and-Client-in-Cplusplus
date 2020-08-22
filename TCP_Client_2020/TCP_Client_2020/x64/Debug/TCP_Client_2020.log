@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\welcome\Desktop\C++ Development\TCP_Client_2020\TCP_Client_2020\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\welcome\Desktop\C++ Development\TCP_Client_2020\TCP_Client_2020\main.cpp(77,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCP_Client_2020.vcxproj -> C:\Users\welcome\Desktop\C++ Development\TCP_Client_2020\x64\Debug\TCP_Client_2020.exe
